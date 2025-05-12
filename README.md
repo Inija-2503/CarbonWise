@@ -33,7 +33,6 @@
 
 ---
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🏠 HOME PAGE
 ![Screenshot 2025-05-12 174236](https://github.com/user-attachments/assets/f81348f1-9328-434d-a5b5-67842f70dcee)
@@ -50,7 +49,7 @@
 ### 🌱 AI-Powered Tips
 ![Screenshot 2025-05-12 174157](https://github.com/user-attachments/assets/af4ea636-8765-4f25-b497-a0d12c10b320)
 
-
+----
 
 ## 🔧 Installation
 
