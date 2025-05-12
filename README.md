@@ -32,6 +32,20 @@
 - **Database (optional)**: Firestore (if you're saving user data)
 
 ---
+## 📸 Screenshots
+## 📸 Screenshots
+
+### 🏠 HOME PAGE
+![Home page Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174236.png")
+### DASHBOARD (before)
+![Dashboard before survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174116.png")
+### SURVEY PAGE
+![Survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174141.png")
+### Dahboard (after)
+![Dashboard after survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 175731.png")
+### 🌱 AI-Powered Tips
+![Sustainability Tips Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174157.png")
+
 
 ## 🔧 Installation
 
