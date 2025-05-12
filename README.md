@@ -38,15 +38,18 @@
 ### 🏠 HOME PAGE
 ![Screenshot 2025-05-12 174236](https://github.com/user-attachments/assets/f81348f1-9328-434d-a5b5-67842f70dcee)
 
-![Home page Screenshot]
 ### DASHBOARD (before)
-![Dashboard before survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174116.png")
+![Screenshot 2025-05-12 174116](https://github.com/user-attachments/assets/bcc07ed9-5ea6-4ce7-b600-50232abaf9f0)
+
 ### SURVEY PAGE
-![Survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174141.png")
+![Screenshot 2025-05-12 174141](https://github.com/user-attachments/assets/fbdf5514-b4c3-458b-a6f7-eed092a88c65)
+
 ### Dahboard (after)
-![Dashboard after survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 175731.png")
+![Screenshot 2025-05-12 175731](https://github.com/user-attachments/assets/87432dcb-d49b-42fc-be6c-829fdecc2d38)
+
 ### 🌱 AI-Powered Tips
-![Sustainability Tips Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174157.png")
+![Screenshot 2025-05-12 174157](https://github.com/user-attachments/assets/af4ea636-8765-4f25-b497-a0d12c10b320)
+
 
 
 ## 🔧 Installation
