@@ -36,7 +36,9 @@
 ## 📸 Screenshots
 
 ### 🏠 HOME PAGE
-![Home page Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174236.png")
+![Screenshot 2025-05-12 174236](https://github.com/user-attachments/assets/f81348f1-9328-434d-a5b5-67842f70dcee)
+
+![Home page Screenshot]
 ### DASHBOARD (before)
 ![Dashboard before survey Screenshot]("C:\Users\inija\OneDrive\Pictures\Screenshots\Screenshot 2025-05-12 174116.png")
 ### SURVEY PAGE
